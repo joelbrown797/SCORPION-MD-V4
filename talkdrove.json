@@ -1,0 +1,15 @@
+{
+    "bot-name": "scorpion md",
+    "description": "scorpionmd, your friendly assistant!",
+    "logo": "https://i.ibb.co/nqsRcKDB/scorpionv4.jpg",
+    "keywords": [],
+    "documentation-link": "https://scorpionxbot.vercel.app",
+    "owner-verification": "tylor9kid@gmail.com", 
+  "env": {
+    "SESSION_ID": {
+      "description": "Must begin with 'SCORPION-BOT:~' or 'SCORPION-MD:~'.",
+      "value": "",
+      "required": false
+    }
+  }
+}
